@@ -3,4 +3,4 @@ This repository contains homework assignments and course project of Online Machi
 
 Course project is currently unavailable. To be updated...
 
-**NO GUARANTEE** on correctness of homework. Plz reference this with caution.
+**NO GUARANTEE** that the homework is 100% accurate. Plz reference this with caution.
